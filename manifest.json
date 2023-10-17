@@ -1,0 +1,12 @@
+{
+    "manifest_version": 3,
+    "name": "YouTube unAds",
+    "version": "1.0",
+    "description": "To fuck up that fucking limitation from fuckers who wants to fuck this world with their fucking money",
+    "content_scripts": [{
+        "js": ["scripts/content.js"],
+        "matches": [
+            "https://www.youtube.com/*"
+        ]
+    }]
+}
