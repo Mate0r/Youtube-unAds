@@ -1,3 +1,3 @@
 # Youtube-unAds
 
-To fuck up that fucking limitation from fuckers who wants to fuck this world with their fucking money
+A little web browser chrome extension to counter the new YouTube limitation with AdBlockers
