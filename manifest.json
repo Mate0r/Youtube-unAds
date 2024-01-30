@@ -2,7 +2,7 @@
     "manifest_version": 3,
     "name": "YouTube unAds",
     "version": "1.0",
-    "description": "To fuck up that fucking limitation from fuckers who wants to fuck this world with their fucking money",
+    "description": "A little web browser chrome extension to counter the new YouTube limitation with AdBlockers",
     "content_scripts": [{
         "js": ["scripts/content.js"],
         "matches": [
